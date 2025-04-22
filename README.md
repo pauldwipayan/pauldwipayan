@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, cooking, photography
 - 🌱 I’m currently learning Credit Risk Modeling
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pauldwipayan@gmail.com
+- 📫 How to reach me dwipayan121paul@gmail.com
 
 <!---
 pauldwipayan/pauldwipayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
